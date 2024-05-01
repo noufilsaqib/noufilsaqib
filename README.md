@@ -4,6 +4,18 @@
 
 I'm a software developer with hands-on experience in both frontend and backend technologies, who thrives on the challenge of building things that work and make people's lives easier. Whether it's streamlining workflows, designing intuitive apps, or tinkering with AI, I'm always learning and excited to put my skills to use.
 
+<div>
+  <a href="https://noufilsaqib.com/" target="_blank">
+    <img src="https://img.shields.io/badge/portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white" alt="portfolio" />
+  </a>
+  <a href="https://www.linkedin.com/in/muhammad-noufil-saqib/" target="_blank">
+    <img src="https://img.shields.io/badge/linkedin-%2300acee.svg?color=1e77b5&style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" />
+  </a>  
+  <a href="https://noufilsaqib.com/assets/Resume_v3.pdf" target="_blank">
+    <img src="https://img.shields.io/badge/portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white" alt="portfolio" />
+  </a> 
+</div> 
+
 #
 
 ### 🧰 Languages and Tools
