@@ -36,3 +36,5 @@ I'm a software developer with hands-on experience in both frontend and backend t
 
 ![Noufil's Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs?username=noufilsaqib&show_icons=true&locale=en&layout=compact&theme=tokyonight)
 
+![Noufil's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=noufilsaqib&theme=tokyo-night&area=true&radius=8)
+
