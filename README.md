@@ -12,9 +12,9 @@ I'm a software developer with hands-on experience in both frontend and backend t
     <img src="https://img.shields.io/badge/linkedin-%2300acee.svg?color=1e77b5&style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" />
   </a>  
   <a href="https://noufilsaqib.com/assets/Resume_v3.pdf" target="_blank">
-    <img src="https://img.shields.io/badge/portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white" alt="portfolio" />
-  </a> 
-</div> 
+    <img src="https://img.shields.io/badge/resume-000000?style=for-the-badge&logo=files&logoColor=white" alt="resume" />
+  </a>
+</div>
 
 #
 
