@@ -19,7 +19,7 @@ I'm a software developer with hands-on experience in both frontend and backend t
 #
 
 ### 🧰 Languages and Tools
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,py,c,java,kotlin,php,ts,react,nextjs,nodejs,redux,django,flask,flutter,prisma,mysql,postgres,mongodb,firebase,pytorch,tensorflow,opencv,sklearn,jquery,tailwind,sass,aws,express)](https://skillicons.dev)
+![My Skills](https://skillicons.dev/icons?i=html,css,js,py,c,java,kotlin,php,ts,react,nextjs,nodejs,express,redux,django,flask,flutter,prisma,mysql,postgres,mongodb,firebase,pytorch,tensorflow,opencv,sklearn,jquery,tailwind,sass,aws)
 
 #
 
