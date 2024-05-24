@@ -33,6 +33,7 @@ I'm a software developer with hands-on experience in both frontend and backend t
 
 ![Noufil's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=noufilsaqib&theme=tokyo-night&area=true&radius=8)
 
+<!---
 #
 
 ### Projects
@@ -40,4 +41,5 @@ I'm a software developer with hands-on experience in both frontend and backend t
 ![Noufil's Kindr Repository](https://github-readme-stats.vercel.app/api/pin/?username=noufilsaqib&repo=kindr&theme=tokyonight)
 ![Noufil's Baaj Repository](https://github-readme-stats.vercel.app/api/pin/?username=noufilsaqib&repo=yvr-hacks-2024&theme=tokyonight)
 ![Noufil's Ora Repository](https://github-readme-stats.vercel.app/api/pin/?username=noufilsaqib&repo=qds_hacks_2024&theme=tokyonight)
+-->
 
