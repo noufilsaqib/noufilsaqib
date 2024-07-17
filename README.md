@@ -11,7 +11,7 @@ I'm a software developer with hands-on experience in both frontend and backend t
   <a href="https://www.linkedin.com/in/muhammad-noufil-saqib/" target="_blank">
     <img src="https://img.shields.io/badge/linkedin-1e77b5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" />
   </a>
-  <a href="https://noufilsaqib.com/assets/Resume_v4.pdf" target="_blank">
+  <a href="https://noufilsaqib.com/assets/Resume_v5.pdf" target="_blank">
     <img src="https://img.shields.io/badge/resume-000000?style=for-the-badge&logo=files&logoColor=white" alt="resume" />
   </a>
 </div>
